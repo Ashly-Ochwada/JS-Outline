@@ -67,7 +67,7 @@ class Mkulima{
     let farm1 = new Mkulima();
     farm1.addFarm("333","Naburi","Ashly","0758862979", "OA333");
     farm1.addFarm("444","Natabona","Nandwa","0789895657", "JN444");
-    farm1.addFarm("555","Nagwera","Nathan","0114660199", "SN555");
+    farm1.addFarm("555","Nagwera","Anota","0114660199", "SN555");
     console.log(farm1.farms);
     
     farm1.removeFarm("023");
